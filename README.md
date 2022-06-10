@@ -39,6 +39,8 @@ make run
      </details>
 </div>
 
+----------------------------------
+
 <details close>
   <summary><strong>Screensoot</strong></summary>
 </details>
