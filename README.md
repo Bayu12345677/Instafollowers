@@ -43,6 +43,10 @@ make run
 
 <details close>
   <summary><strong>Screensoot</strong></summary>
+  <img src="https://github.com/Bayu12345677/Instafolllower/blob/master/img/Screenshot_20220610-110811.png">
+  <img src="https://github.com/Bayu12345677/Instafolllower/blob/master/img/Screenshot_20220610-101616.png">
+  <img src="https://github.com/Bayu12345677/Instafolllower/blob/master/img/Screenshot_20220610-093436.png">
+
 </details>
 <br>
 
