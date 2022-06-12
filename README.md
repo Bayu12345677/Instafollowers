@@ -16,11 +16,12 @@
 
 <div align="center">
 <code>cara menginstall</code><br>
+</div><br>
 <li>mengclone repository ini</li>
 <li>menginstall repository make</li>
 <br>
 <details close>
-     <summary><code>Code</code></summary>
+     <summary><div align="center"><code>Code</code></summary></div>
      <div align="left">
 
 ```bash
@@ -37,7 +38,15 @@ make run
 <br>
      </div>
      </details>
+<details close>
+   <summary><div align="center"><code>intruksi pemakaian</code></div></summary>
+
+> -> layar harus berukuran h=88 w=26<br>
+> -> pastikan akun tumbal mempunyai foto profile<br>
+> -> enjoy
+
 </div>
+</details>
 
 ----------------------------------
 
