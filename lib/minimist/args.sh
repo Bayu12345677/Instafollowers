@@ -1,15 +1,22 @@
 #!/usr/bin/env bash
-                                                                                        # depencies
+                                                                                        
+# depencies
 @import util/io.class util/IO.NAMEPARAMS                                                
-class __minimist__;                                                                     {
-        public: app = initialize;                                                               public: app = get_args;
-        public: app = eval_variable;                                                            public: app = type;
+class __minimist__;                                                                     
+{
+        public: app = initialize;                                                               
+        public: app = get_args;
+        public: app = eval_variable;                                                            
+        public: app = type;
         public: app = get_arg;                                                          
-        def: __minimist__::initialize()                                                         {
+        def: __minimist__::initialize()                                                         
+        {
                 global: model = "$@"                                                    
-                var subs : "${model##*=}"                                                               var subs2 : ${model%%=*}
+                var subs : "${model##*=}"                                                               
+                var subs2 : ${model%%=*}
         }                                                                               
-        def: __minimist__::get_args()                                                           {
+        def: __minimist__::get_args()                                                           
+        {
                 __minimist__::initialize ${@}
         }
 
