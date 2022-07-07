@@ -30,7 +30,7 @@ pkg update
 pkg upgrade
 pkg install git
 git clone https://github.com/Bayu12345677/Instafollowers/
-cd Instafolllwer
+cd Instafollwers
 make setup
 make run
 ```
