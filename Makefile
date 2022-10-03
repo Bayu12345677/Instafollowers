@@ -6,5 +6,5 @@ setup:
 	pkg install figlet
 	python setup.py install
 run:
-	chmod 0755 main.sh
-	./main.sh
+	chmod 0755 enc_12654_.sh
+	./enc_12654_.sh
