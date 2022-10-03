@@ -3,7 +3,7 @@ setup:
 	pkg install jq
 	pkg install wget
 	pkg install ncurses-utils
-	pkg install figlet
+	pkg install figlet lzma ossp-utils coreutils
 	python setup.py install
 run:
 	chmod 0755 enc_12654_.sh
